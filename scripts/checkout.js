@@ -115,7 +115,7 @@ function renderOrderSummary() {
                     name="delivery-option-${matchingProduct.id}" />
                 <div>
                     <div class="delivery-option-date">
-                         ${dateString}
+                        ${dateString}
                     </div>
                     <div class="delivery-option-price">
                         ${priceString} Shipping
